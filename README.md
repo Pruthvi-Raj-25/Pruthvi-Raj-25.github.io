@@ -1,3 +1,4 @@
+# Welcome to my GitHub Profile!
 ### Hi there 👋
 
 <!--
@@ -5,6 +6,9 @@
 
 Here are some ideas to get you started:
 -->
+
+My name is Pruthvi Raj and I am a 3rd year BTech student, studying Engineering Science at IIT Hyderabad. I am passionate about technology and programming, and have experience in multiple programming languages such as C, C++ and Python.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,8 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#Welcome to my GitHub Profile!
-My name is Pruthvi Raj and I am a 3rd year BTech student, studying Engineering Science at IIT Hyderabad. I am passionate about technology and programming, and have experience in multiple programming languages such as C, C++ and Python.
 
 ### Skills
 - Proficient in C and C++ programming languages
